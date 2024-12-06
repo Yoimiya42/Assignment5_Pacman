@@ -1,0 +1,11 @@
+listening for incoming connection...
+Got connection from ('10.132.4.4', 60136)
+receive_passwd, fd= 344
+fd  344 received passwd  123
+Got connection from ('10.132.4.6', 50509)
+receive_passwd, fd= 288
+fd  288 passwd  123 matches fd 344
+Got connection from ('10.132.4.6', 50513)
+receive_passwd, fd= 348
+fd  348 received passwd  123
+Got connection from ('10.132.4.4', 60159)
